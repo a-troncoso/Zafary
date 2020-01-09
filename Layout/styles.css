@@ -45,3 +45,8 @@ h1, h2, h3 {
 .contenido-secundario ul {
   list-style: none;
 }
+
+.contenido-principal iframe {
+  width: 100%;
+  height: 100%;
+}
