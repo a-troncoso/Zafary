@@ -17,8 +17,10 @@
 ​	En este repositorio encontrarán la estructura básica de nuestro proyecto (tranquilos, los archivos estarán vacíos), __importante__: los archivos de imágenes están dentro de la carpeta /assets dentro de cada carpeta (Home, Layout, WhatZapp).
 
 
+Las imagenes para los usuarios las pueden enconrar en: https://randomuser.me/photos
 
 El diseño se encuentra en la URL: https://www.figma.com/file/H4WSgzsnoxwivf7zq15Tdr/Zafary?node-id=0%3A1
+
 
 ### Condiciones:
 
