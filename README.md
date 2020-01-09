@@ -29,15 +29,15 @@ __Ahora lo malo:__
 ​	Definí los siguientes criterios de aceptación con un puntaje del 1 al 7 según cuanto considero que se logró el criterio:
 
 1. Página es igual al diseño
-2. Código HTML legible (estructura y tabulación)
+2. Código HTML y JS legible (estructura y tabulación)
 3. Uso de JavaScript y CSS puro (no se usan librerías escritas en JavaScript o en CSS)
 4. Se suben archivos por consola (no por arrastrar/soltar)
 5. No se permite ingresar al home del layout si el email de usuario o contraseña son incorrectos (usuario: ejemplo@gmail.com, contraseña: 123456)
-6. Se muestra mensaje de error si el email de usuario o contraseña son incorrectos
+6. Se muestra mensaje de error rojo bajo el botón si el email de usuario o contraseña son incorrectos
 
 ---
 
-#### El plazo de entrega es hasta el domingo 19 de Enero (23:59:59 hrs.)
+### El plazo de entrega es hasta el domingo 19 de Enero (23:59:59 hrs.)
 
 ---
 
@@ -77,17 +77,19 @@ function funcionQueRedirecciona() {
 
 2. Ingresamos nuestro correo, esperamos, y nos registramos desde el link que nos llega a nuestro email.
 
-3. Luego de registrarnos, se nos muestra una URL parecida a esta: 
+3. Luego de registrarnos, se nos muestra una URL parecida a esta (no usar esta que aparece como ejemplo): 
 
    ````html
    <script src="https://kit.fontawesome.com/4f5a582d8d.js" crossorigin="anonymous"></script>
    ````
 
-4. Debemos llevar esa línea a nuestro HTML (dentro del head) y luego podremos agregar un ícono, por ejemplo el del Home:
+4. Debemos llevar esa etiqueta script a nuestro HTML (dentro del head)
+
+5. podremos agregar un ícon. Por ejemplo el del Home:
 
    `````html
    <i class="fas fa-home"></i>
    `````
 
-5. Podemos ver más íconos disponibles en: https://fontawesome.com/icons?d=gallery
+6. Podemos ver más íconos disponibles en: https://fontawesome.com/icons?d=gallery
 
